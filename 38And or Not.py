@@ -10,4 +10,5 @@ d = True or True
 e = True or False
 f = False or False
 g = not False
+
 print (a, b, c, d, e, f, g)
